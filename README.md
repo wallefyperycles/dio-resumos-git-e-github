@@ -14,7 +14,7 @@ texto 1
 
 //windows + .   : abre os emoticons
 
-
+alteração ?????//////
 
 \## 📚 Exemplo 1
 
