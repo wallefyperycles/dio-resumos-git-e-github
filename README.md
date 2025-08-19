@@ -13,7 +13,7 @@ texto 1
 
 
 //windows + .   : abre os emoticons
-t
+
 
 
 \## 📚 Exemplo 1
